@@ -1,0 +1,35 @@
+body{
+    background: whitesmoke;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+#titleSong {
+    font-size: 36px;
+    font-family: arial black;
+    color: green;
+}
+hr{
+    border-bottom: 1px green dashed;
+}
+audio {
+    text-align: center;
+}
+#photo {
+    border-radius: 20px;
+    height: 30%;
+    width: 50%;
+}
+.lyrics-part1 {
+    max-width: 220px;
+}
+.lyrics-part2 {
+    max-width: 300px;
+}
+.lyrics-part3 {
+    max-width: 320px;
+}
+.lyrics-part4 {
+    max-width: 240px;
+}
