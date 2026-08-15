@@ -4,6 +4,7 @@ body{
 *{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
+    text-align: center;
 }
 #titleSong {
     font-size: 36px;
@@ -12,9 +13,6 @@ body{
 }
 hr{
     border-bottom: 1px green dashed;
-}
-audio source {
-    text-align: center;
 }
 #photo {
     border-radius: 20px;
