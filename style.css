@@ -19,6 +19,9 @@ hr{
     height: 30%;
     width: 50%;
 }
+audio{
+    text-align: center;
+}
 .lyrics-part1 {
     max-width: 220px;
 }
